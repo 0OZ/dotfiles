@@ -1,0 +1,17 @@
+# import = ["~/.config/alacritty/themes/themes/one_dark.toml"]
+
+import = ["~/.config/alacritty/themes/themes/github_dark.toml"]
+
+[font]
+size = 13 
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+
+# [window]
+# decorations = "Buttonless"
+
+[window.padding]
+x = 7
+y = 0 
+
