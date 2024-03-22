@@ -12,6 +12,6 @@ family = "JetBrainsMono Nerd Font"
 # decorations = "Buttonless"
 
 [window.padding]
-x = 7
+x = 2
 y = 0 
 
